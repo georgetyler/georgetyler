@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @georgetyler
+- 👀 I’m interested in econometrics & data wrangling
+- 🌱 I’m currently learning R, Python, and how to finish my dissertation!
