@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @georgetyler
 - 👀 I’m interested in econometrics & data wrangling
-- 🌱 I'm work as an economist at the Reserve Bank of Australia
+
